@@ -1,0 +1,11 @@
+body{
+    padding-top : 7rem;
+    background-color: lightblue;
+
+}
+main{
+    width: 100%;
+    max-width: 400px;
+    padding: 3rem 4rem;
+    margin:auto;
+}
